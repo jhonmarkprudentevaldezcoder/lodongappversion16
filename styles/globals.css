@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.text-gradient-green-blue {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, #4DD399, #0EB2A6);
+}
+.folder{
+  width: 1.4rem;
+  height: 1.4rem;
+}
