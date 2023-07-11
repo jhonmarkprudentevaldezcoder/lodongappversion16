@@ -1,6 +1,6 @@
-import Nav from "../../components/Nav";
-import Card from "../../components/card";
-import NoCard from "../../components/NoCard";
+import Nav from "../components/Nav";
+import Card from "../components/card";
+import NoCard from "../components/NoCard";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -15,7 +15,7 @@ export default function Dashboard() {
       <Head>
         <title>Dashboard</title>
         <meta name="Dashboard" content="Dashboard" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/applogo.png" />
       </Head>
       <div className="flex flex-col md:flex-row font-spoqahansansneo ">
         {/* side navigation  */}
