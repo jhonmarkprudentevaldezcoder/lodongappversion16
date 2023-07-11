@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/Nocard/NoCard.js", "components/Nav/Nav.js", "components/card/card.js", "pages/(dashboard)/layout.js", "pages/(dashboard)/dashboard/dashboard.js"  ],
+, "components/Nocard/NoCard.js", "components/Nav/Nav.js", "components/card/card.js", "pages/dashboard/layout.js", "pages/dashboard/dashboard/dashboard.js"  ],
   "exclude": [
     "node_modules"
   ]
